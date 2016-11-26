@@ -25,7 +25,7 @@ SECRET_KEY = 'kvua@i6(^c-^k=!jw)73xqyt%$6emu%usn3mwy=qqr+-emf_21'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1", malinle.pythonanywhere.com]
 
 
 # Application definition
